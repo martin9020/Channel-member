@@ -1,5 +1,5 @@
 export const config = {
-	title: "Join /pinata",
+	title: "Join /BCH",
 	channel: "pinata",
 	startImage:
 		"https://pink-genuine-lemur-71.mypinata.cloud/ipfs/QmbqnEVvPDu92cxQgVKwwxjinC1SDXJafD8T3CYwc1J4Hd",
