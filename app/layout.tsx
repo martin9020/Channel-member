@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 	description: "A channel frame",
 	other: {
 		"fc:frame": "vNext",
-		"fc:frame:image": config.startImage,
+		"fc:frame:image": config.alreadyMemberImage,
 		"fc:frame:button:1": "Request to Join",
 		"fc:frame:button:1:action": "post",
 		"fc:frame:button:1:target": "https://channel-member-ffs.vercel.app/api/join",
