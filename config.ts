@@ -2,13 +2,13 @@ export const config = {
 	title: "Join /pinata",
 	channel: "pinata",
 	startImage:
-		"https://dweb.mypinata.cloud/ipfs/Qme7ZBHZ8hPwph7Rwgd9EuESBZ2QukvUyvqrtzHQQyhwCe?img-format=webp",
+		"https://pink-genuine-lemur-71.mypinata.cloud/ipfs/QmbqnEVvPDu92cxQgVKwwxjinC1SDXJafD8T3CYwc1J4Hd",
 	mustFollowImage:
-		"https://dweb.mypinata.cloud/ipfs/QmZfzP8Vp4BVkVZ681gucr4bTEE7YJmp3u9fYHtvuyAZtp?img-format=webp",
+		"https://pink-genuine-lemur-71.mypinata.cloud/ipfs/QmUjA5fnL7Wuj4NKcX8bvD4AgTpWqHU3QLeWrTv1g8n4Q5",
 	alreadyMemberImage:
-		"https://dweb.mypinata.cloud/ipfs/QmRh8gJD7sceMLuQ2GMvMkPWzPJ5fB2pZFjnYkreRdc38c?img-format=webp",
+		"https://pink-genuine-lemur-71.mypinata.cloud/ipfs/QmdgG3ZFv393fxEpBZyqPpujt5Eh1NnqyArxxEg6Gd1GVd",
 	successImage:
 		"https://dweb.mypinata.cloud/ipfs/QmVXTGNeKTYJzjJF4F6ncs6fHBT15vLY5aUdGM3z2ztkU3?img-format=webp",
 	errorImage:
-		"https://dweb.mypinata.cloud/ipfs/QmbqydPqciqxjDgJqaCB7cMERoGMHDRasHvQFFoZANuECq?img-format=webp",
+		"https://pink-genuine-lemur-71.mypinata.cloud/ipfs/QmZCfVCmtK5EFqd7SzJtzBoXs5kXXqcHwBGE1NzjTSTiXr",
 };
