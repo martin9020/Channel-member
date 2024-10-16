@@ -2,7 +2,7 @@ export const config = {
 	title: "Join /BCH",
 	channel: "BCH",
 	startImage:
-		"https://pink-genuine-lemur-71.mypinata.cloud/ipfs/QmbqnEVvPDu92cxQgVKwwxjinC1SDXJafD8T3CYwc1J4Hd",
+		"https://pink-genuine-lemur-71.mypinata.cloud/ipfs/QmcwEK9Em5kTWFbABYv8vYGwfe5AVC8a63i9v6g4YoWLtb",
 	mustFollowImage:
 		"https://pink-genuine-lemur-71.mypinata.cloud/ipfs/QmdgG3ZFv393fxEpBZyqPpujt5Eh1NnqyArxxEg6Gd1GVd",
 	alreadyMemberImage:
