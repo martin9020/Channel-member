@@ -8,7 +8,7 @@ export const config = {
 	alreadyMemberImage:
 		"https://pink-genuine-lemur-71.mypinata.cloud/ipfs/QmUjA5fnL7Wuj4NKcX8bvD4AgTpWqHU3QLeWrTv1g8n4Q5",
 	successImage:
-		"https://dweb.mypinata.cloud/ipfs/QmVXTGNeKTYJzjJF4F6ncs6fHBT15vLY5aUdGM3z2ztkU3?img-format=webp",
+		"https://pink-genuine-lemur-71.mypinata.cloud/ipfs/QmRSqkVywNiM3KcrqqWXs4ZCASnHM1cqUqsWTNQfbnGimJ",
 	errorImage:
 		"https://pink-genuine-lemur-71.mypinata.cloud/ipfs/QmZCfVCmtK5EFqd7SzJtzBoXs5kXXqcHwBGE1NzjTSTiXr",
 };
